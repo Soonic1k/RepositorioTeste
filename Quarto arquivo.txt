@@ -1,2 +1,4 @@
 Novo arquivo para o projeto de aprendizado do Git.
+Testando a funcionalidade Branch
+Realizando um novo commit
 Relizando um teste diferente de Branch na Master
